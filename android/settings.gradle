@@ -1,0 +1,3 @@
+rootProject.name = 'starMe'
+
+include ':app'
